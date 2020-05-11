@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Drop" transform="translate(-1078.000000, -1793.000000)">
+            <g id="Group-2" transform="translate(153.000000, 1724.000000)">
+                <g id="Group" transform="translate(928.000000, 71.000000)">
+                    <path d="M46.6239,0 L36.5669,0 C33.2699,0 30.5709,2.698 30.5709,5.996 L30.5709,40.474 C30.5709,43.772 33.2699,46.47 36.5669,46.47 L46.6239,46.47 C49.9219,46.47 52.6199,43.772 52.6199,40.474 L52.6199,5.996 C52.6199,2.698 49.9219,0 46.6239,0" id="Fill-1" fill="#00CC54" opacity="0.100000001"></path>
+                    <path d="M0,56.4508 L55.391,56.4508" id="Stroke-3" stroke="#00CC54" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M17.0527,0 L6.9957,0 C3.6987,0 0.9997,2.698 0.9997,5.996 L0.9997,40.474 C0.9997,43.772 3.6987,46.47 6.9957,46.47 L17.0527,46.47 C20.3507,46.47 23.0487,43.772 23.0487,40.474 L23.0487,5.996 C23.0487,2.698 20.3507,0 17.0527,0" id="Fill-5" stroke="#00CC54" stroke-width="3"></path>
+                    <path d="M46.6239,17.2168 L36.5669,17.2168 C33.2699,17.2168 30.5709,19.9148 30.5709,23.2128 L30.5709,40.4748 C30.5709,43.7718 33.2699,46.4708 36.5669,46.4708 L46.6239,46.4708 C49.9219,46.4708 52.6199,43.7718 52.6199,40.4748 L52.6199,23.2128 C52.6199,19.9148 49.9219,17.2168 46.6239,17.2168" id="Fill-7" stroke="#00CC54" stroke-width="3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
